@@ -2,4 +2,4 @@
 opacity = 0.9
 
 [font]
-normal = { family = "Fira Code Nerd Font", style = "Regular" }
+normal = { family = "Fira Code Nerd Font", style = "Regular" } # you can use this font or use your preffered font
